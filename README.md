@@ -3,7 +3,7 @@
 # Statistical Computing course (2021 Fall)
 course sub-material for statistical computing class
 
-[Week 1](https://github.com/JosephKBS/21fall_statcomp/tree/main/w1)
+[ [Week 1: codes + slides] ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w1)
 
 [Week 2](https://github.com/JosephKBS/21fall_statcomp/tree/main/w2)
 
