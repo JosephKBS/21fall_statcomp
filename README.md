@@ -1,4 +1,4 @@
-![main](main.png)
+![main](main1.png)
 
 # Statistical Computing course (2021 Fall)
 course sub-material for statistical computing class
