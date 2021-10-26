@@ -1,6 +1,8 @@
 # Week 7
 
-
+# ---------------------------------
+# 1. moving average
+# ---------------------------------
 moving_average <- function(x,y,k,na.rm=T){
   #reorder the data by "x"
   ord <- order(x) 
@@ -22,7 +24,9 @@ moving_average <- function(x,y,k,na.rm=T){
   return(list(x=x,y=moving_average))
 }
 
-
+# ---------------------------------
+# 2. moving average with boxcar
+# ---------------------------------
 moving_average <- function(x,y,frac=0.1,n=100,na.rm=T){
   # compute the range of x and build a grid of n eval points (take from boxcar density)
   rng <- range(x)
