@@ -18,3 +18,7 @@ course sub-material for statistical computing class
 [ [Week 7: codes & slides] ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w7) [ [Week7: R Shiny app] ](https://apsta.shinyapps.io/StatCompWeek7/)
 
 [ [Week 8: codes & slides] ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w8) [ [Week8: R Shiny app] ](https://apsta.shinyapps.io/StatCompWeek8/)
+
+[ [Week 9: codes & slides] ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w9) [ [Week9: R Shiny app] ](https://apsta.shinyapps.io/StatCompWeek9/)
+
+[ [Week 10: codes & slides] ](https://github.com/JosephKBS/21fall_statcomp/tree/main/w10) [ [Week10: R Shiny app] ](https://apsta.shinyapps.io/StatCompWeek10/)
