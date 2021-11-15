@@ -16,6 +16,16 @@ for (i in seq_along(first_name)) {
     }
 }
 
+# Tidyverse approach
+df <- data.frame(first_name, last_name)
+df %>% filter(first_name == "Lea")
+
+# Another method using subsetting
+df <- data.frame(first_name, last_name)
+idx <- first_name
+df[idx, ]
+
+
 # ---------------------------------
 # 2. Calculating function
 # ---------------------------------
